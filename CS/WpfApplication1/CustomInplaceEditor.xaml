@@ -1,4 +1,4 @@
-﻿<!--region #AppointmentInplaceEditorBase-->
+<!--region #AppointmentInplaceEditorBase-->
 <dxschui:AppointmentInplaceEditorBase
             x:Class="WpfApplication1.CustomInplaceEditor"
             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
