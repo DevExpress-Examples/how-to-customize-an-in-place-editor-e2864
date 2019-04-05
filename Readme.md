@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CustomInplaceEditor.xaml](./CS/WpfApplication1/CustomInplaceEditor.xaml) (VB: [CustomInplaceEditor.xaml.vb](./VB/WpfApplication1/CustomInplaceEditor.xaml.vb))
+* [CustomInplaceEditor.xaml](./CS/WpfApplication1/CustomInplaceEditor.xaml) (VB: [CustomInplaceEditor.xaml](./VB/WpfApplication1/CustomInplaceEditor.xaml))
 * [CustomInplaceEditor.xaml.cs](./CS/WpfApplication1/CustomInplaceEditor.xaml.cs) (VB: [CustomInplaceEditor.xaml.vb](./VB/WpfApplication1/CustomInplaceEditor.xaml.vb))
 * [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to customize an in-place editor
 
